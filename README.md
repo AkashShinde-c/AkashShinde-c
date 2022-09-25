@@ -1,6 +1,6 @@
 - 👋 Hello There..! I’m Akash Shinde
 - 👀 Who am I ? -> A curious programmer nevigating his way through ocean of technologies...🌊
-- 🌱 Where am I currently ? -> In the great sea of "Web Technologies" trying to pass the currents of "Django, MongoDB and RESTApi"
+- 🌱 Where am I currently ? -> In the great sea of "Web Technologies" trying to pass the waves of "Django, MongoDB and RESTApi"
 -  as I leave behind the waves of HTML,CSS and JavaScript😉
 - 💞️ Trying to reach the hearts....(of recruiters😁)
 - 📫 How to reach me -> shindeakashak47@gmail.com
