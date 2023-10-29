@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akash Shinde</h1>
+<h2 align="center">Hi 👋, I'm Akash Shinde</h2>
 <h3 align="center">Frontend developer & product designer. Full-stack experience in professional settings. Expertise in React, frontend tech, & product design.</h3>
 
 <h3 align="left">Connect with me:</h3>
@@ -86,24 +86,8 @@
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
-  </a>
-  <a href="https://graphql.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40" height="40"/>
-  </a>
-</p>
-
+ 
 
 
 
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashshinde-c&show_icons=true&locale=en&layout=compact" alt="akashshinde-c" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashshinde-c&show_icons=true&locale=en" alt="akashshinde-c" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashshinde-c&" alt="akashshinde-c" /></p>
