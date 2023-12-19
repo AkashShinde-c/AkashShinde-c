@@ -30,7 +30,7 @@ Languages
 Frameworks                                   
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![React Native](https://img.shields.io/badge/-React-05122A?style=flat&logo=reactnative)&nbsp;
+![ReactNative](https://img.shields.io/badge/-React-05122A?style=flat&logo=react-native)&nbsp;
 ![NextJS](https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=nextdotjs)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
